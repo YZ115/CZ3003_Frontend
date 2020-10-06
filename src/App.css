@@ -1,3 +1,10 @@
+body {
+  background-image: url(game_sample.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
 .App {
   text-align: center;
 }

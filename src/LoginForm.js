@@ -92,7 +92,7 @@ class LoginForm extends React.Component {
 					onClick={()=>this.doLogin()}
 				/>
 				<form action="https://google.com">
-					<input type='submit' value="Register"/>
+					<input className='regBtn' type='submit' value="Register"/>
 				</form>
 			</div>
 		);
